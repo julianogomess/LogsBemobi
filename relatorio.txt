@@ -1,0 +1,3 @@
+Brasil , 27 , 17
+Chile , 39 , 16
+Mexico , 34 , 20
